@@ -43,6 +43,67 @@ theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: default
 read_time: true
 
+paginate: 5  # amount of posts to show per page
+paginate_path: /page:num/
+
+search: true
+search_full_content: true
+
+# Taxonomy pages
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
+
+comments:
+  provider: disqus
+  disqus:
+    shortname: iveney # use JEKYLL_ENV=production to actually see it locally
+
+# specify default post Front Matters
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values: &posts_default_value
+      layout: single
+      toc: true
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      show_date: true
+  # _pages
+  - scope:
+      path: ""
+      type: drafts
+    values: *posts_default_value
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# use jekyll-archives for archives
+category_archive:
+  type: jekyll-archives
+  path: /categories/
+tag_archive:
+  type: jekyll-archives
+  path: /tags/
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
