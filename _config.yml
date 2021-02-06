@@ -123,3 +123,7 @@ jekyll-archives:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# These are my customized flags
+excerpt_length: 250
+show_teaser_in_list: true
