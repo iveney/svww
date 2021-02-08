@@ -1,5 +1,5 @@
 ---
-short_name: ivan
+name: ivan
 display_name: Ivan
 position: The SVWW
 ---
