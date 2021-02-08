@@ -24,7 +24,6 @@ collections:
           value_field: 'name',
         }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-
   - name: 'authors'
     label: 'Authors'
     folder: '_authors/'
