@@ -21,7 +21,7 @@ group :jekyll_plugins do
   gem 'jekyll-compose'
   gem 'jekyll-include-cache'
   gem 'jekyll-archives'
-  gem 'jekyll-gist'
+  gem 'jekyll-cloudinary'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
