@@ -6,7 +6,7 @@ media_library:
   name: cloudinary
   config:
     cloud_name: maomao
-    api_key: dZSLnTryI3dIX10TfUBMwpGpgsQ
+    api_key: 634725569543962
 publish_mode: editorial_workflow
 collections:
   - name: 'blog'
