@@ -39,8 +39,7 @@ Table saw is still the first thing you should get. I’ve already talked about t
 
 **Best upgrade pick for the value:** [**DeWalt DWE7491RS**](https://amzn.to/36CxE8a)
 
-![](https://paper-attachments.dropbox.com/s_79065C9FA75E6C7C78891ABB6DF504F98E87EE6754FE64F368AFD8C62DC8612F_1612336352605_image.png)
-
+{% cloudinary https://res.cloudinary.com/maomao/image/upload/v1612833114/dewalt-DWE7491rs.png caption="DeWalt DWE7491RS" %}
 
 It is one of the best compact table saw out there. With more than 3k+ positive reviews in [Amazon](https://amzn.to/36CxE8a) and 1k+ positive reviews in [Home Depot](https://www.homedepot.com/p/DEWALT-15-Amp-Corded-10-in-Job-Site-Table-Saw-with-Rolling-Stand-DWE7491RS/204512007), it still maintains a full five-star rating! It has larger working surface than my previous recommendation (DW745), and also accepts [dado blade set](https://www.canadianwoodworking.com/tools/dado-sets). It’s more expensive, but it also comes with a handy folding stand. I don’t believe there is a version that comes without a stand, but if you ever get one without it, you can easily build one for the saw. As a matter of fact, my first table saw project is to build a table saw stand for it 🙂
 

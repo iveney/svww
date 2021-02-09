@@ -129,6 +129,7 @@ show_teaser_in_list: true
 
 cloudinary:
   cloud_name: maomao
+  verbose: true
   presets:
     default:
       min_width: 320
