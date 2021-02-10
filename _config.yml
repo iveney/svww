@@ -103,6 +103,12 @@ jekyll-archives:
     category: /categories/:name/
     tag: /tags/:name/
 
+footer:
+  links:
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCUedAzXRC_IEixNdYh6PX0w"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
