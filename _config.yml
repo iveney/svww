@@ -155,3 +155,10 @@ cloudinary:
       steps: 5
       sizes: '(min-width: 50rem) 50rem, 90vw'
       figure: always
+
+# for google analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-HGBGBVGW2L"
+    anonymize_ip: false # default
