@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/iveney/jekyll-cloudinary.git
-  revision: b5d7096ab21dab9a0b4bec5c7b21e6ddc94349d9
+  revision: 79b00db11e4df0e4ca1e9daf10bd61d6b4a09ada
   branch: master
   specs:
     jekyll-cloudinary (1.14.1)
