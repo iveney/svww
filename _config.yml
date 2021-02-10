@@ -56,7 +56,7 @@ tag_archive_path: "/tags/#"
 comments:
   provider: disqus
   disqus:
-    shortname: iveney # use JEKYLL_ENV=production to actually see it locally
+    shortname: svww # use JEKYLL_ENV=production to actually see it locally
 
 # specify default post Front Matters
 defaults:
