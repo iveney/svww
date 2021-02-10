@@ -3,10 +3,10 @@ layout: single
 title: Beginner Woodworking Tools Under $1000
 date: 2021-02-02 22:48 -0800
 category:
-- woodworking
+- Tools
 tags:
-- tools
-- DIY
+- saws
+- drills
 tagline: Getting serious into woodworking.
 header:
   teaser: "/images/post_woodworking.jpg"

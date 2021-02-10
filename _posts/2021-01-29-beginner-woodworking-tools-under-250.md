@@ -2,7 +2,7 @@
 layout: single
 title: Beginner Woodworking Tools Under $250
 category:
-- woodworking
+- Tools
 tagline: Upscaling your woodworking hobby a bit
 header:
   teaser: "/images/post_woodworking.jpg"

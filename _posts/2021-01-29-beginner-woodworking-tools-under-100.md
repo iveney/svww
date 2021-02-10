@@ -2,10 +2,7 @@
 layout: single
 title: Beginner Woodworking Tools Under $100
 category:
-- woodworking
-tags:
-- tools
-- DIY
+- Tools
 tagline: Woodworking without breaking the bank
 header:
   teaser: "/images/post_woodworking.jpg"

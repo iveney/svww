@@ -2,8 +2,11 @@
 layout: single
 title: Beginner Woodworking Tools Under $500
 date: 2021-01-31 20:18 -0800
-category: [woodworking]
-tags: [DIY]
+category:
+- Tools
+tags:
+- saws
+- drills
 header:
   teaser: "/images/post_woodworking.jpg"
   overlay_image: "/images/post_woodworking.jpg"
