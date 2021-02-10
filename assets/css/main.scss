@@ -44,3 +44,14 @@ img {
     margin-bottom: gutter(of 12);
   }
 }
+
+// These changes help to center align the table
+// https://www.granneman.com/webdev/coding/css/centertables
+// https://stackoverflow.com/a/301164/577704
+table {
+  width: unset;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+
