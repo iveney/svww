@@ -5,8 +5,8 @@ category:
 - Tools
 tagline: Upscaling your woodworking hobby a bit
 header:
-  teaser: "/images/post_woodworking.jpg"
-  overlay_image: "/images/post_woodworking.jpg"
+  teaser: "/assets/uploads/teaser.jpg"
+  overlay_image: "/assets/uploads/teaser.jpg"
   overlay_filter: 0.2
   caption: "[via](https://unsplash.com/photos/t5YUoHW6zRo)"
 date: 2021-01-29 17:24 -0800
