@@ -11,7 +11,7 @@ feature_row:
   - image_path: /assets/uploads/step-stool.jpeg
   - image_path: /assets/uploads/cutting-board.jpeg
 intro:
-  - image_path: /assets/uploads/avatar.jpg
+  - image_path: /logo-800.jpg
     title: "About"
     excerpt:
       I started woodworking by chance. There was a woodshop near where I work and I’ve always wanted to visit them. Finally, I signed up for their intro class and a few more classes to make cutting boards, boxes, etc., and then I fell in love with it.

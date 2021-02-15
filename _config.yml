@@ -29,10 +29,10 @@ url: "https://www.svwoodworker.com" # the base hostname & protocol for your site
 teaser: /assets/uploads/teaser.jpg
 
 author:
-  display_name: The Woodworker
+  display_name:
   home: /about/
   location: San Francisco, CA
-  avatar: /assets/uploads/avatar.jpg
+  avatar: /logo-800.jpg
   bio: Weekday engineer, weekend warrior.
   links: &social-links
     - label: "YouTube"
