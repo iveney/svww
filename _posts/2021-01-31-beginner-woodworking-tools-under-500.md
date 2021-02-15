@@ -23,7 +23,6 @@ table_saw2:
     title: Ridgid r4518ns
   - image_path: https://paper-attachments.dropbox.com/s_5B16366DC8FB5CD805407D42656700C312B80CFC47DE56A6F52FE4F6E48ADFEB_1612148251122_image.png
     title: Ryobi RTS08
-hidden: true
 ---
 
 $500 for buying woodworking tools is a breaking point. The major difference is that you can start entering the world of **stationary** tools.

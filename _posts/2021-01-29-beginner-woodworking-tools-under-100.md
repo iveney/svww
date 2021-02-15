@@ -10,7 +10,6 @@ header:
   overlay_filter: 0.2
   caption: "[via](https://unsplash.com/photos/t5YUoHW6zRo)"
 date: 2021-01-29 15:02 -0800
-hidden: true
 ---
 In 2020, I picked up a new hobby - woodworking. Since then, I’ve purchased numerous tools and started forming my own shop. A lot of friends are also enticed to work on some DIY projects and asked me about tool recommendation. I figured it’ll be worth to write something about it.
 

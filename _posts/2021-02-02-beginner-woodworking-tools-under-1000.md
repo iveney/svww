@@ -13,7 +13,6 @@ header:
   overlay_image: "/assets/uploads/teaser.jpg"
   overlay_filter: 0.2
   caption: "[via](https://unsplash.com/photos/t5YUoHW6zRo)"
-hidden: true
 ---
 
 As we've discussed in my [previous articles](/categories/woodworking), it's possible to start woodworking with different budgets. When you are ready to commit $1000, it is already a big deal. Do know that woodworking is an expensive hobby, it requires a lot of investment into tools, as well as buying materials especially when you start working with hardwoods. When you woodwork for a while, you’ll probably realize that $1000 is not really a lot of money.
