@@ -4,11 +4,11 @@ category:
 - Project
 tags:
 - beginner
-excerpt: ""
+excerpt: ''
 header:
   teaser: https://res.cloudinary.com/maomao/image/upload/t_auto-640/v1613867172/3-in-1-step-stool.jpg
+date: 2021-02-21 10:37 -0800
 ---
-
 {% include video id="QeBkY7lJ_As" provider="youtube" %}
 [Plan](https://svww.weeblysite.com/product/3-in-1-step-stool/2)
 
