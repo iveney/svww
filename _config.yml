@@ -166,3 +166,5 @@ analytics:
   google:
     tracking_id: "G-HGBGBVGW2L"
     anonymize_ip: false # default
+
+repository: iveney/svww
