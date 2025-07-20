@@ -105,7 +105,9 @@ GEM
     unicode-display_width (1.7.0)
 
 PLATFORMS
+  arm64-darwin-24
   x86_64-darwin-19
+  x86_64-linux
 
 DEPENDENCIES
   jekyll (~> 4.2.0)
@@ -123,4 +125,4 @@ DEPENDENCIES
   wdm (~> 0.1.1)
 
 BUNDLED WITH
-   2.2.6
+   2.6.9
