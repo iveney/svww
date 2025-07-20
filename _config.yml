@@ -42,6 +42,10 @@ author:
 footer:
   links: *social-links
 
+# theme: jekyll-theme-midnight
+# remote_theme: pages-themes/midnight@v0.2.0
+theme: minimal-mistakes-jekyll
+
 # Build settings
 plugins:
   - jekyll-feed
@@ -51,8 +55,8 @@ plugins:
   - jekyll-include-cache
   - jekyll-archives
   - jekyll-cloudinary
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-theme: jekyll-theme-midnight
 logo: "logo.png"
 minimal_mistakes_skin: default
 read_time: true
