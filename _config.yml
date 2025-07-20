@@ -52,7 +52,7 @@ plugins:
   - jekyll-archives
   - jekyll-cloudinary
 
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-midnight
 logo: "logo.png"
 minimal_mistakes_skin: default
 read_time: true
